@@ -167,15 +167,15 @@ echo  “current date is :$day-$month=$year”
 echo  “current time is :$hour:$minute:$second”
 ```
 
-Monitoring your Linux system.
-Data backup and creating snapshots.
-Dumping Oracle or MySQL database for backup.
-Creating email based alert systems.
-Find out what processes are eating up your system resources.
-Find out available and free memory.
-Find out all logged in users and what they are doing.
-Find out if all necessary network services are running or not. For example if the web server failed then send an alert to the system administrator via a pager or an email.
-Find out all failed login attempts, if login attempts are continued repeatedly from the same network IP automatically block all those IPs accessing your network/service via firewall.
-User administration as per your own security policies.
-Find out information about local or remote servers.
-Server configuration.
+Monitoring your Linux system.   
+Data backup and creating snapshots.   
+Dumping Oracle or MySQL database for backup.    
+Creating email based alert systems.    
+Find out what processes are eating up your system resources.   
+Find out available and free memory.   
+Find out all logged in users and what they are doing.   
+Find out if all necessary network services are running or not. For example if the web server failed then send an alert to the system administrator via a pager or an email.     
+Find out all failed login attempts, if login attempts are continued repeatedly from the same network IP automatically block all those IPs accessing your network/service via firewall.    
+User administration as per your own security policies.    
+Find out information about local or remote servers.    
+Server configuration.    
