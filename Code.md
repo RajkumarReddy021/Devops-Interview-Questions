@@ -13,10 +13,13 @@ echo "Current directory is `pwd`"
 ### 3. How to check if a directory exists?
 ```
 #!/bin/sh
-if [ -d $mydir ]
-then
-echo "Directory exists"
+sophis="./sophis"
+if [ -e "$sophis" ]; then
+    echo "exists"
+else
+    echo "does not exist"
 fi
+
 ```
 ### 4. Explain the file permissions.
 r – read 4
